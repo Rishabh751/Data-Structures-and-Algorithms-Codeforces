@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 7 | 6 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (1)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -48,6 +48,7 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 
 ### math
 
@@ -61,6 +62,7 @@
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 
 ---
 
