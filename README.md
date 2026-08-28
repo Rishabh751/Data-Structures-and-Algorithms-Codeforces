@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 7 |
+| 10 | 7 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (7)
-- [math](#math) (1)
+- [math](#math) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (4)
 
@@ -39,6 +39,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
@@ -59,6 +60,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.java) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 
 ### sortings
 
