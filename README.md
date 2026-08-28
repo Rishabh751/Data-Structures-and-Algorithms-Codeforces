@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 6 |
+| 8 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [math](#math) (1)
 - [strings](#strings) (3)
 
@@ -49,6 +49,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 
 ### math
 
