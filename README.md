@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 7 |
+| 13 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (3)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (8)
-- [math](#math) (2)
+- [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
 
@@ -32,6 +32,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 
@@ -61,6 +62,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.java) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 
 ### sortings
