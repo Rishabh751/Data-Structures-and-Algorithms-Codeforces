@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 7 |
+| 11 | 7 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [implementation](#implementation) (7)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 
 ---
 
@@ -72,6 +72,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/Rishabh751/Data-Structures-and-Algorithms-Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
